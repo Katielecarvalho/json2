@@ -1,6 +1,7 @@
 {
-  "superHerois": ["SUPERMAN", "BATMAN", "HOMEM-ARANHA", "WOLVERINE", "THOR"],
-  "universos": ["DC", "MARVEL", "IMAGE", "VALIANT", "DARK_HORSE"]
+  "deuses": ["Odin", "Zeus", "Ra", "Thor", "Anubis"],
+  "constelacoes": ["Orion", "Cassiopeia", "Andromeda", "Pegasus", "Centaurus"]
 }
+
 
 
