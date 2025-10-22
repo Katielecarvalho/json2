@@ -1,7 +1,8 @@
 
 {
-  "deuses": ["Odin", "Zeus", "Ra", "Thor", "Anubis"],
-  "constelacoes": ["Orion", "Cassiopeia", "Andromeda", "Pegasus", "Centaurus"]
+  "deuses": ["Zeus", "Poseidon", "Hades", "Atena", "Apolo", "Ártemis", "Ares"],
+  "simbolos": ["raio", "tridente", "elmo", "coruja", "lira", "arco", "espada"],
+	"poder": [95, 90, 88, 85, 80, 78, 82]
 }
 
 
