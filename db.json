@@ -1,36 +1,8 @@
 {
-  "estudantes": [
-	{
-  	"nome": "João",
-  	"idade": 20,
-  	"notas": [7.5, 8.0, 6.5],
-  	"frequencia": [true, true, true, false, true, true, true, false, true, true]
-	},
-	{
-  	"nome": "Maria",
-  	"idade": 22,
-  	"notas": [9.0, 8.5, 7.0],
-  	"frequencia": [true, false, true, true, true, true, true, true, false, true]
-	},
-	{
-  	"nome": "Pedro",
-  	"idade": 19,
-  	"notas": [6.0, 7.0, 8.5],
-  	"frequencia": [true, true, true, true, true, true, true, true, true, true]
-	},
-	{
-  	"nome": "Ana",
-  	"idade": 21,
-  	"notas": [8.0, 9.0, 8.5],
-  	"frequencia": [false, true, false, true, true, false, true, true, true, false]
-	},
-	{
-  	"nome": "Lucas",
-  	"idade": 23,
-  	"notas": [7.0, 6.5, 7.5],
-  	 "frequencia": [true, true, true, true, true, false, true, true, false, true]
-	}
-	
-  ]
+  "deuses": ["Zeus, Poseidon, Hades, Atena, Apolo, Ártemis, Ares"],
+  "simbolos": [" raio, tridente, elmo, coruja, lira, arco, espada"]
+	"poder": ["95, 90, 88, 85, 80, 78, 82"]
+
 }
+
 
